@@ -4,7 +4,7 @@
 
 🌱 Currently I'm learning advanced medical neuroscience at UT Dallas & exploring machine learning.
 
-🧠 I’m not currently looking to collaborate much due to going to school; but would still love to see if I can make it fit in my schedule.
+🧠 I’m not currently looking to collaborate much due to on-going school; but would still love to see if I can make it fit in my schedule.
 
 📫 How to reach me: Connect via LinkedIn at https://www.linkedin.com/in/JonathanRReed0 or email jonathanrayreed@gmail.com.
 
