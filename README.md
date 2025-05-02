@@ -1,14 +1,62 @@
-👋 Hi, I’m @JonathanRReed, a neuroscience student interested in tech-driven solutions.
+<p align="center">
+  <img src="path/to/avatar.png" width="150" alt="Jonathan’s Photo">
+</p>
 
-👀 I’m really interested in medical neuroscience, computational neuroscience, and ML-driven solutions.
+<h1 align="center">Hi, I’m @JonathanRReed 👋</h1>
 
-🌱 Currently I'm learning advanced medical neuroscience at UT Dallas & exploring machine learning.
+<p align="center">
+  <a href="#about-me">About Me</a> • 
+  <a href="#interests">Interests</a> • 
+  <a href="#current">Current</a> • 
+  <a href="#availability">Availability</a> •
+  <a href="#contact">Contact</a> • 
+  <a href="#pronouns">Pronouns</a> • 
+  <a href="#fun-fact">Fun Fact</a>
+</p>
 
-🧠 I’m not currently looking to collaborate much due to on-going school; but would still love to see if I can make it fit in my schedule.
+<p align="center">
+  <img src="https://img.shields.io/badge/Neuroscience-Advanced-blue" alt="Neuroscience Badge">
+  <img src="https://img.shields.io/badge/ML-Exploring-green" alt="ML Badge">
+  <img src="https://img.shields.io/badge/UT%20Dallas-Student-yellow" alt="UT Dallas Badge">
+</p>
 
-📫 How to reach me: Connect via LinkedIn at https://www.linkedin.com/in/JonathanRReed0 or email jonathanrayreed@gmail.com.
+---
 
-😄 Pronouns: he/him
+## 👨‍🎓 About Me
+I’m a neuroscience student at UT Dallas passionate about tech-driven solutions.
 
-⚡ Fun fact: In my spare time, I enjoy red-teaming new AI models & keeping up with the latest neuroscience papers.
+---
 
+## 👀 Interests
+- Medical Neuroscience  
+- Computational Neuroscience  
+- ML-driven Solutions  
+
+---
+
+## 🌱 Current
+Learning advanced medical neuroscience at UT Dallas & exploring machine learning.
+
+---
+
+## 📆 Availability
+Not actively seeking collaborations due to ongoing studies, but open to fitting projects into my schedule.
+
+---
+
+## 📫 Contact
+| Platform   | Link                                                         |
+|-----------:|--------------------------------------------------------------|
+| LinkedIn   | [JonathanRReed](https://www.linkedin.com/in/JonathanRReed0)  |
+| Website    | [jonathanrreed.com](https://jonathanrreed.com)               |
+
+---
+
+## 😄 Pronouns
+he/him
+
+---
+
+## ⚡ Fun Fact
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50" alt="Typing GIF">  
+In my spare time, I enjoy red-teaming new AI models & keeping up with the latest neuroscience papers.
