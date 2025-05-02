@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="path/to/avatar.png" width="150" alt="Jonathan’s Photo">
-</p>
-
 <h1 align="center">Hi, I’m @JonathanRReed 👋</h1>
 
 <p align="center">
