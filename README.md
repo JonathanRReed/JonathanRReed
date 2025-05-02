@@ -5,16 +5,6 @@
 <h1 align="center">Hi, I’m @JonathanRReed 👋</h1>
 
 <p align="center">
-  <a href="#about-me">About Me</a> • 
-  <a href="#interests">Interests</a> • 
-  <a href="#current">Current</a> • 
-  <a href="#availability">Availability</a> •
-  <a href="#contact">Contact</a> • 
-  <a href="#pronouns">Pronouns</a> • 
-  <a href="#fun-fact">Fun Fact</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Neuroscience-Advanced-blue" alt="Neuroscience Badge">
   <img src="https://img.shields.io/badge/ML-Exploring-green" alt="ML Badge">
   <img src="https://img.shields.io/badge/UT%20Dallas-Student-yellow" alt="UT Dallas Badge">
