@@ -16,7 +16,7 @@ I’m a neuroscience student at UT Dallas passionate about tech-driven solutions
 ## 👀 Interests
 - Medical Neuroscience  
 - Computational Neuroscience  
-- ML-driven Solutions  
+- ML-stuff
 
 ---
 
