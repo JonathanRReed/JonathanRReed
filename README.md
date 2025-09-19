@@ -49,15 +49,6 @@ Not actively seeking collaborations due to ongoing studies, but open to fitting 
 
 ---
 
-## Connect
-
-- Website: [jonathanrreed.com](https://jonathanrreed.com)
-
-- LinkedIn: [jonathanrreed0](https://www.linkedin.com/in/jonathanrreed0/)
-
----
-
-
 <p align="center">
 <sub>lover of open source</sub>
 </p>
