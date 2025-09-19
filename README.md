@@ -38,7 +38,7 @@ I'm a Medical Neuroscience major at UT Dallas passionate about tech.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,ts,astro,react,tailwind,nextjs,bun,cloudflare,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=ts,astro,react,nextjs,bun&perline=5" />
 
 </p>
 
