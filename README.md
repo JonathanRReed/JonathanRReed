@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Neuroscience-Medical-eb6f92?style=for-the-badge&logoColor=white&color=eb6f92">
+<img src="https://img.shields.io/badge/Cybersecurity-Risk%20Management-eb6f92?style=for-the-badge&logoColor=white&color=eb6f92">
 
 <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-9ccfd8?style=for-the-badge&logoColor=white&color=9ccfd8">
 
@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a Medical Neuroscience major at UT Dallas passionate about tech.
+I'm a Cybersecurity & Risk Management major at UT Dallas. I build small, fun tools.
 
 ---
 
@@ -43,9 +43,10 @@ I'm a Medical Neuroscience major at UT Dallas passionate about tech.
 </p>
 
 ---
+
 ## Availability
 
-Not actively seeking collaborations due to ongoing studies, but open to fitting projects into my schedule.
+Not actively seeking collaborations due to ongoing studies, but open to fitting select projects into my schedule.
 
 ---
 
