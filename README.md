@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a Cybersecurity & Risk Management major at UT Dallas. I build small, fun tools.
+I'm a Cybersecurity & Risk Management major at UT Dallas. I build small, fun, or useful tools.
 
 ---
 
