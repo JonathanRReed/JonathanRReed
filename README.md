@@ -1,55 +1,25 @@
-<h1 align="center">Jonathan Reed</h1>
+# Jonathan Reed
 
-<p align="center">
+Cybersecurity and Risk Management student at UT Dallas building local-first AI tools, automation systems, and small product experiments.
 
-<img src="https://img.shields.io/badge/Cybersecurity-Risk%20Management-eb6f92?style=for-the-badge&logoColor=white&color=eb6f92">
+## Focus
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-9ccfd8?style=for-the-badge&logoColor=white&color=9ccfd8">
+- Local AI workflows, retrieval systems, and automation tooling
+- Security-conscious developer tools with clear operating boundaries
+- Product-shaped prototypes that are easy to run, inspect, and improve
 
-<img src="https://img.shields.io/badge/UT%20Dallas-Student-c4a7e7?style=for-the-badge&logoColor=white&color=c4a7e7">
+## Selected Work
 
-</p>
+- [JR-AutoRAG](https://github.com/JonathanRReed/JR-AutoRAG), a local-first retrieval and OCR stack with configurable deployment profiles.
+- [Apple-MCPs](https://github.com/JonathanRReed/Apple-MCPs), local MCP servers for Apple apps and macOS automation.
+- [prompt-info](https://github.com/JonathanRReed/prompt-info), a source-available prompt and model information project.
+- [Git-sonar](https://github.com/JonathanRReed/Git-sonar), a repository analysis tool for understanding codebases faster.
+- [AI Drag Racing](https://github.com/JonathanRReed/AI-Drag-Racing), an AI model latency comparison experiment wrapped as a game.
 
----
+## Stack
 
-## About
-
-I'm a Cybersecurity & Risk Management major at UT Dallas. I build small, fun, or useful tools.
-
----
-
-## Spotlight Projects
-
-- [**Idle Raycast**](https://github.com/JonathanRReed/idle-raycast)
-
- A simple clicker game built into Raycast
-
-- [**Art Gallery**](https://github.com/JonathanRReed/Art-Gallery)
-
- Inspired by a Corridor Crew video: *I Made Art That HACKS Your Eyes*
-
-- [**AI Drag Racing**](https://github.com/JonathanRReed/AI-Drag-Racing)
-
- A tool for latency testing between AI API model providers that accidentally turned into AI drag racing
-
----
-
-## Tech I Use
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,astro,react,nextjs,bun&perline=5" />
-
-</p>
-
----
+I usually work with TypeScript, Python, Rust, Swift, Astro, React, Bun, and local-first automation tools.
 
 ## Availability
 
-Not actively seeking collaborations due to ongoing studies, but open to fitting select projects into my schedule.
-
----
-
-<p align="center">
-<sub>lover of open source</sub>
-</p>
+I am focused on school and a small number of active builds. I am open to selective collaboration when the project is concrete and technically interesting.
