@@ -1,6 +1,6 @@
 # Jonathan Reed
 
-Cybersecurity and Risk Management student at UT Dallas building local-first AI tools, automation systems, and small product experiments.
+Sociology student at UT Dallas building local-first AI tools, automation systems, and small product experiments.
 
 ## Focus
 
