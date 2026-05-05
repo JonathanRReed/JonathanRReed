@@ -17,7 +17,6 @@ I’m currently balancing school, work, and side projects. I’m not actively se
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><sub>Python</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br><sub>TypeScript</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=rust" width="48" /><br><sub>Rust</sub></td>
-  </tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=bun" width="48" /><br><sub>Bun</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=astro" width="48" /><br><sub>Astro</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" /><br><sub>Cloudflare</sub></td>
