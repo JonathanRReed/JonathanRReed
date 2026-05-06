@@ -40,17 +40,6 @@ I’m currently balancing school, work, and side projects. I’m not actively se
 | **AI Drag Racing** | Interactive model latency visualization |
 | **Raycast Clicker Game** | Raycast extension design, small-game UX, and playful automation |
 
-## GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JonathanRReed&show_icons=true&theme=transparent&hide_border=true&title_color=e1bb62&text_color=f8f2e6&icon_color=88b0d8" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=JonathanRReed&theme=transparent&hide_border=true&ring=e1bb62&fire=c89a42&currStreakLabel=f8f2e6&sideLabels=c8b89e&currStreakNum=f8f2e6&sideNums=f8f2e6" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanRReed&bg_color=020508&color=f8f2e6&line=e1bb62&point=88b0d8&area=true&hide_border=true" />
-</p>
-
 ## Links
 
 - Website → https://jonathanrreed.com
