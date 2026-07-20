@@ -1,9 +1,3 @@
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-e1bb62?style=for-the-badge&logoColor=f8f2e6&labelColor=233a52" />
-  <img src="https://img.shields.io/badge/UT%20Dallas-Student-c89a42?style=for-the-badge&logoColor=f8f2e6&labelColor=233a52" />
-  <img src="https://img.shields.io/badge/Sociology-Systems%20%26%20Society-88b0d8?style=for-the-badge&logoColor=f8f2e6&labelColor=233a52" />
-</p>
-
 # Jonathan R. Reed
 
 UT Dallas sociology student in Dallas building AI tools, technical education projects, automation experiments, security-focused software, and some fun side projects.
