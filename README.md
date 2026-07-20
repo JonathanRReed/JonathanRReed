@@ -27,6 +27,8 @@ I’m currently balancing school, work, and side projects. I’m not actively se
 
 | Project | Focus |
 |---|---|
+| [**Waves**](https://github.com/JonathanRReed/Waves) | Native macOS per-app audio, EQ, routing, and adaptive mixing. [Live site](https://waves.jonathanrreed.com/) |
+| [**Strata Studio**](https://github.com/JonathanRReed/Strata-Studio) | Generative browser art built from real terrain and map data. [Live site](https://strata-studio.pages.dev/) |
 | **AI-Stats** | LLM comparison, model selection, and technical UX |
 | **JR-AutoRAG** | Private/local retrieval pipelines and deployment |
 | **Prompt Info** | AI workflow planning and developer education |
