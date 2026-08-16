@@ -23,6 +23,8 @@ Python, TypeScript, Swift, Rust, Astro, Bun, FastAPI, and Cloudflare.
 ## Links
 
 - Portfolio: https://jonathanrreed.com/
+- For recruiters: https://jonathanrreed.com/hire/
+- AI security: https://jonathanrreed.com/ai-security/
 - Projects: https://jonathanrreed.com/projects/
 - Resume: https://jonathanrreed.com/resume/
 - LinkedIn: https://www.linkedin.com/in/jonathanrreed0/
