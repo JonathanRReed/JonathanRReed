@@ -1,47 +1,29 @@
 # Jonathan R. Reed
 
-UT Dallas sociology student in Dallas building AI tools, technical education projects, automation experiments, security-focused software, and some fun side projects.
+Dallas-based AI security and software builder focused on LLM red teaming, RAG security, secure AI deployment, local-first tools, and native macOS software.
 
-I’m currently balancing school, work, and side projects. I’m not actively seeking collaboration, but I’m open to making time when it’s a good fit.
+Open to internship and entry-level roles in AI security, safeguards, security engineering, and software engineering. Remote or Dallas-area.
+
+I’m studying sociology at UT Dallas. That background changes how I look at technical systems, especially incentives, workarounds, trust, and what happens when a safeguard meets real users.
+
+## Selected work
+
+| Project | What it does |
+| --- | --- |
+| [RAGFuzz](https://github.com/JonathanRReed/RAGFuzz) | Tests retrieval systems against prompt injection, poisoning, leakage, and multi-turn failures. [Case study](https://jonathanrreed.com/projects/ragfuzz/) |
+| [PoliBench](https://jonathanrreed.com/projects/polibench/) | Compares AI assistants under locked run plans with auditable prompts, scores, receipts, and release checks. |
+| [Apple MCPs](https://github.com/JonathanRReed/Apple-MCPs) | Gives agents structured local access to native Mac apps through explicit MCP tools and safety modes. [Case study](https://jonathanrreed.com/projects/apple-mcps/) |
+| [Waves](https://github.com/JonathanRReed/Waves) | A native macOS per-app audio mixer for volume, EQ, output routing, and focus rules. [Live site](https://waves.jonathanrreed.com/) |
+| [AI Stats](https://github.com/JonathanRReed/Ai-stats) | Brings model pricing, provider, latency, speed, and benchmark sources into one comparison workbench. [Case study](https://jonathanrreed.com/projects/ai-stats/) |
 
 ## What I use most
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><sub>Python</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br><sub>TypeScript</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=rust" width="48" /><br><sub>Rust</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bun" width="48" /><br><sub>Bun</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=astro" width="48" /><br><sub>Astro</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" /><br><sub>Cloudflare</sub></td>
-  </tr>
-</table>
-
-## Current focus
-
-- School
-- Work
-- Side projects
-
-## Some highlights
-
-| Project | Focus |
-|---|---|
-| [**Waves**](https://github.com/JonathanRReed/Waves) | Native macOS per-app audio, EQ, routing, and adaptive mixing. [Live site](https://waves.jonathanrreed.com/) |
-| [**Strata Studio**](https://github.com/JonathanRReed/Strata-Studio) | Generative browser art built from real terrain and map data. [Live site](https://strata-studio.pages.dev/) |
-| **AI-Stats** | LLM comparison, model selection, and technical UX |
-| **JR-AutoRAG** | Private/local retrieval pipelines and deployment |
-| **Prompt Info** | AI workflow planning and developer education |
-| **Apple-MCPs** | Local automation and MCP ecosystem tooling |
-| **AI Drag Racing** | Interactive model latency visualization |
-| **Raycast Clicker Game** | Raycast extension design, small-game UX, and playful automation |
+Python, TypeScript, Swift, Rust, Astro, Bun, FastAPI, and Cloudflare.
 
 ## Links
 
-- Website → https://jonathanrreed.com
-- Resume → https://jonathanrreed.com/resume
-- LinkedIn → https://linkedin.com/in/jonathanrreed0
-
-<p align="center">
-  <sub>lover of open source ♡</sub>
-</p>
+- Portfolio: https://jonathanrreed.com/
+- Projects: https://jonathanrreed.com/projects/
+- Resume: https://jonathanrreed.com/resume/
+- LinkedIn: https://www.linkedin.com/in/jonathanrreed0/
+- Contact: https://jonathanrreed.com/contact/
